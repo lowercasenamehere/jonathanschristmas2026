@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lowercasenamehere.github.io/jonathanschristmas2026/sitemap.xml
