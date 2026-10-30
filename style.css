@@ -118,3 +118,6 @@ footer{padding:25px 20px}footer p{font:12px Arial,sans-serif;color:#bac1ad}foote
 
 .art:has(img[src="knife-bag-transparent.png"]){padding:6px}
 .art img[src="knife-bag-transparent.png"]{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal;padding:0}
+
+.art:has(img[src="fridge-transparent.png"]){padding:6px}
+.art img[src="fridge-transparent.png"]{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal;padding:0}
