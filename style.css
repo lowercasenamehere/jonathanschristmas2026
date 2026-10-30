@@ -124,3 +124,15 @@ footer{padding:25px 20px}footer p{font:12px Arial,sans-serif;color:#bac1ad}foote
 
 .art:has(img[src="watch-roll-transparent.png"]){padding:6px}
 .art img[src="watch-roll-transparent.png"]{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal;padding:0}
+
+.art:has(img[src="tobacco-transparent.png"]){padding:6px}
+.art img[src="tobacco-transparent.png"]{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal;padding:0}
+
+.art:has(img[src="mint-transparent.png"]){padding:6px}
+.art img[src="mint-transparent.png"]{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal;padding:0}
+
+.art:has(img[src="baccarat-transparent.png"]){padding:6px}
+.art img[src="baccarat-transparent.png"]{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal;padding:0}
+
+.art:has(img[src="intensely-transparent.png"]){padding:6px}
+.art img[src="intensely-transparent.png"]{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal;padding:0}
