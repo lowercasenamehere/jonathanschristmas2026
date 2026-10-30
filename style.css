@@ -78,3 +78,11 @@ footer{padding:25px 20px}footer p{font:12px Arial,sans-serif;color:#bac1ad}foote
 .art:has(img[src="beans-transparent.png"]){padding:4px}.art img[src="beans-transparent.png"]{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal;padding:0}
 
 .art:has(img[src="knife-transparent.png"]){padding:8px}.art img[src="knife-transparent.png"]{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal;padding:0}
+
+.art:has(img[src="sharpener-transparent.png"]){padding:6px}.art img[src="sharpener-transparent.png"]{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal;padding:0}
+
+.art:has(img[src="rebar-transparent.png"]){padding:6px}.art img[src="rebar-transparent.png"]{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal;padding:0}
+
+.art:has(img[src="canister-transparent.png"]){padding:6px}.art img[src="canister-transparent.png"]{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal;padding:0}
+
+.art:has(img[src="adam-belt-transparent.png"]){padding:6px}.art img[src="adam-belt-transparent.png"]{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal;padding:0}
