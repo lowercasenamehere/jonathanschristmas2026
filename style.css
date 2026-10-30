@@ -100,3 +100,6 @@ footer{padding:25px 20px}footer p{font:12px Arial,sans-serif;color:#bac1ad}foote
 
 .art:has(img[src="ammo-crate-transparent.png"]){padding:6px}
 .art img[src="ammo-crate-transparent.png"]{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal;padding:0}
+
+.art:has(img[src="towels-transparent.png"]){padding:6px}
+.art img[src="towels-transparent.png"]{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal;padding:0}
