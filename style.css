@@ -148,3 +148,9 @@ footer{padding:25px 20px}footer p{font:12px Arial,sans-serif;color:#bac1ad}foote
 
 .art:has(img[src="backgammon-transparent.png"]){padding:6px}
 .art img[src="backgammon-transparent.png"]{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal;padding:0}
+
+.art:has(img[src="p3-transparent.png"]){padding:6px}
+.art img[src="p3-transparent.png"]{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal;padding:0}
+
+.art:has(img[src="picnic-transparent.png"]){padding:6px}
+.art img[src="picnic-transparent.png"]{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal;padding:0}
