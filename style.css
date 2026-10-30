@@ -88,3 +88,15 @@ footer{padding:25px 20px}footer p{font:12px Arial,sans-serif;color:#bac1ad}foote
 .art:has(img[src="adam-belt-transparent.png"]){padding:6px}.art img[src="adam-belt-transparent.png"]{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal;padding:0}
 
 .art:has(img[src="adam-brown-transparent.png"]){padding:6px}.art img[src="adam-brown-transparent.png"]{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal;padding:0}
+
+.art:has(img[src="iridium-transparent.png"]){padding:6px}
+.art img[src="iridium-transparent.png"]{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal;padding:0}
+
+.art:has(img[src="leek-transparent.png"]){padding:6px}
+.art img[src="leek-transparent.png"]{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal;padding:0}
+
+.art:has(img[src="kizer-transparent.png"]){padding:6px}
+.art img[src="kizer-transparent.png"]{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal;padding:0}
+
+.art:has(img[src="ammo-crate-transparent.png"]){padding:6px}
+.art img[src="ammo-crate-transparent.png"]{width:100%;height:100%;object-fit:contain;mix-blend-mode:normal;padding:0}
