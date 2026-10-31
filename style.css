@@ -179,3 +179,7 @@ footer{padding:25px 20px}footer p{font:12px Arial,sans-serif;color:#bac1ad}foote
 /* Keep album covers square and product photos contained on the card background. */
 .card[data-category="Vinyl"] .art{padding:18px}
 .card[data-category="Vinyl"] .art img{object-fit:contain;mix-blend-mode:normal;filter:none}
+
+/* All gifts live in one grid; sort and budget share the same compact control style. */
+.budget-row{flex-wrap:wrap;gap:16px}.sort-control .price-menu summary{min-width:158px}.sort-menu .price-options{min-width:195px}.filter-meta{margin-left:auto}
+@media(max-width:580px){.budget-row{gap:12px}.sort-control .price-menu summary{min-width:140px}.filter-meta{width:100%;margin-left:0;justify-content:space-between}}
